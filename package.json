@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-sudeti",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb": "^0.0.7",
+    "object-assign": "^4.0.1"
+  },
+  "peerDependencies": {
+    "babel-eslint": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sudeti/eslint-config-sudeti.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sudeti/eslint-config-sudeti/issues"
+  },
+  "description": "eslint config"
+}
