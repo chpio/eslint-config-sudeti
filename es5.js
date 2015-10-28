@@ -2,7 +2,7 @@
 
 module.exports = {
 	'extends': [
-		'airbnb/base',
-		'./rules',
+		'airbnb/legacy',
+		'./rules.yaml',
 	],
 };

@@ -4,8 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-airbnb": "^0.0.7",
-    "object-assign": "^4.0.1"
+    "eslint-config-airbnb": "^0.1.0"
   },
   "peerDependencies": {
     "babel-eslint": "*"
