@@ -5,3 +5,4 @@ rules:
   max-len: [1, 100, 2]
   no-warning-comments: [1, {location: 'anywhere'}]
   comma-dangle: [2, 'always-multiline']
+  object-curly-spacing: [2, 'never']
