@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-	'extends': [
-		'airbnb/base',
-		'./rules',
-	],
+	extends: [
+		'eslint-config-airbnb/base',
+		'./rules.yaml',
+	].map(require.resolve),
 };

@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-	'extends': [
-		'airbnb/legacy',
+	extends: [
+		'eslint-config-airbnb/legacy',
 		'./rules.yaml',
-	],
+	].map(require.resolve),
 };
