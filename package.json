@@ -6,9 +6,6 @@
   "dependencies": {
     "eslint-config-airbnb": "^6.0.2"
   },
-  "peerDependencies": {
-    "babel-eslint": "*"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/sudeti/eslint-config-sudeti.git"
